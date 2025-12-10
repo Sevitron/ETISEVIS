@@ -1,0 +1,5 @@
+{
+  "name": "SYS Label Generator AI",
+  "description": "Advanced shipping label generator with Excel import, PDF creation, and AI-powered text extraction.",
+  "requestFramePermissions": []
+}
